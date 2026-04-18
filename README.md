@@ -22,7 +22,7 @@ Sou um desenvolvedor em plena **transição de carreira**, unindo a experiência
 | :--- | :--- | :--- | :---: |
 | **🍔 DevBurguer** | Interface completa de e-commerce para lanchonete com sistema de carrinho e checkout dinâmico. | **React.js** • Node.js | [Code 🚀](https://github.com/marceloslm81/DevBurguer-interface-modificada) |
 | **✂️ Yas Concept Hair** | Landing Page profissional para clínica de estética com foco em conversão e design moderno. | **JavaScript** • **CSS3** • **HTML** | [Code 🚀](https://github.com/marceloslm81/Yas) |
-| **💅 Studio de Beleza** | Dashboard institucional para gestão de serviços e tabela de preços dinâmica. | **HTML** • **CSS** • **JavaScript** | [Code 🚀](https://github.com/marceloslm81/JavaScript/blob/master/index.html) |
+| **💅 Studio de Beleza** | Landing Page institucional de alto impacto com tabela de preços dinâmica e design responsivo. | **HTML** • **CSS** • **JavaScript** | [Code 🚀](https://github.com/marceloslm81/JavaScript/blob/master/index.html) |
 
 <br>
 
