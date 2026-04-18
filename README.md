@@ -16,13 +16,15 @@ Sou um desenvolvedor em plena **transição de carreira**, unindo a experiência
 <br>
 
 ## 🚀 Projetos em Destaque
-*Aqui estão alguns dos meus trabalhos principais:*
+*Aplicações reais desenvolvidas com foco em performance, design responsivo e experiência do usuário:*
 
-| Projeto | Descrição | Stack | Link |
-| :---: | :---: | :---: | :---: |
-| **DevBurguer** | Rede social para devs compartilharem códigos. | React / Node | [Ver Repo](https://github.com/marceloslm81/DevBurguer-interface-modificada) |
-| **Dvelloper Landings** | Landing pages de alta conversão para WaaS. | JS / CSS3 | [Ver Repo](#) |
-| **Workshop System** | Sistema de gestão de oficinas por placa. | React / API | [Ver Repo](#) |
+| Projeto | Descrição Técnica | Tech Stack | Demonstração |
+| :--- | :--- | :--- | :---: |
+| **🍔 DevBurguer** | Interface completa de e-commerce para lanchonete com sistema de carrinho e checkout dinâmico. | **React.js** • Node.js | [Code 🚀](https://github.com/marceloslm81/DevBurguer-interface-modificada) |
+| **✂️ Yas Concept Hair** | Landing Page profissional para clínica de estética com foco em conversão e design moderno. | **JavaScript** • **CSS3** | [Code 🚀](https://github.com/marceloslm81/Yas) |
+| **💅 Studio de Beleza** | Dashboard institucional para gestão de serviços e tabela de preços dinâmica. | **React.js** • API Rest | [Code 🚀](https://github.com/marceloslm81/JavaScript/blob/master/index.html) |
+
+<br>
 
 <br>
 
