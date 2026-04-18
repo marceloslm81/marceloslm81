@@ -20,7 +20,7 @@ Sou um desenvolvedor em plena **transição de carreira**, unindo a experiência
 
 | Projeto | Descrição | Stack | Link |
 | :---: | :---: | :---: | :---: |
-| **UniOn Dev** | Rede social para devs compartilharem códigos. | React / Node | [Ver Repo](https://github.com/marceloslm81/DevBurguer-interface-modificada) |
+| **DevBurguer** | Rede social para devs compartilharem códigos. | React / Node | [Ver Repo](https://github.com/marceloslm81/DevBurguer-interface-modificada) |
 | **Dvelloper Landings** | Landing pages de alta conversão para WaaS. | JS / CSS3 | [Ver Repo](#) |
 | **Workshop System** | Sistema de gestão de oficinas por placa. | React / API | [Ver Repo](#) |
 
