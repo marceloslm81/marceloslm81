@@ -20,6 +20,9 @@ Sou o fundador da **Dvelloper**, onde lidero a criação de soluções digitais 
 | **✂️ Yas Concept Hair** | Landing page de alto padrão com foco em UI/UX e performance. | `JS` `CSS3` `SEO` | [Repositório](https://github.com/marceloslm81/Yas) |
 | **💅 Studio de Beleza** | LP Institucional com tabela de preços dinâmica e agendamento. | `HTML5` `JS` `Responsive` | [Repositório](https://github.com/marceloslm81/JavaScript/blob/master/index.html) |
 | **🍕 Rosana Lanchonete** |	Sistema de cardápio digital e interface de vendas para delivery. |	`HTML5` `CSS3` `JavaScript` `React` | [Repositório](https://github.com/marceloslm81/rosana-lanchonete) |
+| **✨ Betel Divine** | Landing Page premium para uma igreja e eventos exclusivos.	| `HTML5` `CSS3` `JS` `React` | [Repositório](https://github.com/marceloslm81/betel-divine-experience-web-71-main) |
+
+
 ---
 
 ## 🛠️ Tech Stack & Ferramentas
