@@ -19,7 +19,7 @@ Sou o fundador da **Dvelloper**, onde lidero a criação de soluções digitais 
 | **🍔 DevBurguer** | E-commerce completo com fluxo de checkout e gestão de pedidos. | `React` `Node` `Tailwind` | [Repositório](https://github.com/marceloslm81/DevBurguer-interface-modificada) |
 | **✂️ Yas Concept Hair** | Landing page de alto padrão com foco em UI/UX e performance. | `JS` `CSS3` `SEO` | [Repositório](https://github.com/marceloslm81/Yas) |
 | **💅 Studio de Beleza** | LP Institucional com tabela de preços dinâmica e agendamento. | `HTML5` `JS` `Responsive` | [Repositório](https://github.com/marceloslm81/JavaScript/blob/master/index.html) |
-
+| **🍕 Rosana Lanchonete** |	Sistema de cardápio digital e interface de vendas para delivery. |	`HTML5` `CSS3` `JavaScript` `React` | [Repositório](https://github.com/marceloslm81/rosana-lanchonete) |
 ---
 
 ## 🛠️ Tech Stack & Ferramentas
